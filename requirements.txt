@@ -8,3 +8,5 @@ scikit-learn
 prophet
 openpyxl
 statsmodels
+ydata-profiling
+setuptools

@@ -10,3 +10,6 @@ openpyxl
 statsmodels
 ydata-profiling
 setuptools
+tslearn
+h5py
+plotly

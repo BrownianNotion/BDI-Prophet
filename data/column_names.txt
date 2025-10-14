@@ -1,0 +1,379 @@
+Time
+GEPU_current
+GEPU_ppp
+USA-Three_Component_Index
+USA-News_Based_Policy_Uncert_Index
+USA-1. Economic Policy Uncertainty
+USA-2. Monetary policy
+USA-Fiscal Policy (Taxes OR Spending)
+USA-3. Taxes
+USA-4. Government spending
+USA-5. Health care
+USA-6. National security
+USA-7. Entitlement programs
+USA-8. Regulation
+USA-Financial Regulation
+USA-9. Trade policy
+USA-10. Sovereign debt, currency crises
+Australia News-Based EPU
+EPU Belgium
+EPU Belgium (Dutch language)
+EPU Belgium (French language)
+Brazil News-Based EPU
+Canada News-Based Policy Uncertainty Index
+CHL-EPU*
+CHL-EPUC**
+China News-Based EPU
+CHN-TPU
+CHN-EPU
+COL-EU_SA*
+COL-EUC_SA
+COL-EPU_SA
+COL-EPUC_SA
+COL-EU
+COL-EUC
+COL-EPU
+COL-EPUC
+COL-EPU.1
+COL-EPUC.1
+DNK-EPU_BBD*
+DNK-EPU_extended**
+European_News_Index
+Germany_News_Index
+Italy_News_Index
+UK_News_Index
+France_News_Index
+Spain_News_Index
+GRC-epu_gr
+GRC-EPU
+GRC-EU
+GRC-EPUC
+GRC-EPUB
+GRC-EPUF
+GRC-EPUD
+GRC-EPUT
+GRC-EPUM
+GRC-EPUP
+Monthly_HKEPU_Index
+IRL-EPU Index
+Ireland Economic Policy Uncertainty
+IRL-Domestic Economic Policy Uncertainty
+JPNNews-based Economic Policy Uncertainty Index
+JPNEconomic Policy Uncertainty
+JPN-Fiscal Policy Uncertainty
+JPN-Monetary Policy Uncertainty
+JPN-Trade Policy Uncertainty
+JPN-Exchange Rate Policy Uncertainty
+KOR-New South Koean EPU Index
+KOR-News-based EPU Index
+KOR-GPRNK
+Mexican Policy Uncertainty Index
+NZLEPU-NEWS
+NZLEPU-Scores
+RUSNews-Based Policy Uncertainty Index
+Swedish News-Based EPU Index
+UK_EPU_Index
+AK-EPU_National
+AK-EPU_State
+AK-EPU_Composite
+AL-EPU_National
+AL-EPU_State
+AL-EPU_Composite
+AZ-EPU_National
+AZ-EPU_State
+AZ-EPU_Composite
+CA-EPU_National
+CA-EPU_State
+CA-EPU_Composite
+CD-EPU_National
+CD-EPU_State
+CD-EPU_Composite
+CT-EPU_National
+CT-EPU_State
+CT-EPU_Composite
+DE-EPU_National
+DE-EPU_State
+DE-EPU_Composite
+FL-EPU_National
+FL-EPU_State
+FL-EPU_Composite
+GA-EPU_National
+GA-EPU_State
+GA-EPU_Composite
+IA-EPU_National
+IA-EPU_State
+IA-EPU_Composite
+ID-EPU_National
+ID-EPU_State
+ID-EPU_Composite
+IL-EPU_National
+IL-EPU_State
+IL-EPU_Composite
+IN-EPU_National
+IN-EPU_State
+IN-EPU_Composite
+KS-EPU_National
+KS-EPU_State
+KS-EPU_Composite
+KY-EPU_National
+KY-EPU_State
+KY-EPU_Composite
+LA-EPU_National
+LA-EPU_State
+LA-EPU_Composite
+MA-EPU_National
+MA-EPU_State
+MA-EPU_Composite
+MD-EPU_National
+MD-EPU_State
+MD-EPU_Composite
+ME-EPU_National
+ME-EPU_State
+ME-EPU_Composite
+MI-EPU_National
+MI-EPU_State
+MI-EPU_Composite
+MN-EPU_National
+MN-EPU_State
+MN-EPU_Composite
+MD-EPU_National.1
+MD-EPU_State.1
+MD-EPU_Composite.1
+MS-EPU_National
+MS-EPU_State
+MS-EPU_Composite
+MT-EPU_National
+MT-EPU_State
+MT-EPU_Composite
+NC-EPU_National
+NC-EPU_State
+NC-EPU_Composite
+ND-EPU_National
+ND-EPU_State
+ND-EPU_Composite
+NE-EPU_National
+NE-EPU_State
+NE-EPU_Composite
+NH-EPU_National
+NH-EPU_State
+NH-EPU_Composite
+NJ-EPU_National
+NJ-EPU_State
+NJ-EPU_Composite
+NM-EPU_National
+NM-EPU_State
+NM-EPU_Composite
+NV-EPU_National
+NV-EPU_State
+NV-EPU_Composite
+NY-EPU_National
+NY-EPU_State
+NY-EPU_Composite
+OH-EPU_National
+OH-EPU_State
+OH-EPU_Composite
+OK-EPU_National
+OK-EPU_State
+OK- EPU_Composite
+OR-EPU_National
+OR-EPU_State
+OR-EPU_Composite
+PA-EPU_National
+PA-EPU_State
+PA-EPU_Composite
+RI-EPU_National
+RI-EPU_State
+RI-EPU_Composite
+SC-EPU_National
+SC-EPU_State
+SC-EPU_Composite
+TN-EPU_National
+TN-EPU_State
+TN-EPU_Composite
+TX-EPU_National
+TX-EPU_State
+TX-EPU_Composite
+UT-EPU_National
+UT-EPU_State
+UT-EPU_Composite
+VA-EPU_National
+VA-EPU_State
+VA-EPU_Composite
+VT-EPU_National
+VT-EPU_State
+VT-EPU_Composite
+WA-EPU_National
+WA-EPU_State
+WA-EPU_Composite
+WI-EPU_National
+WI-EPU_State
+WI-EPU_Composite
+WV-EPU_National
+WV-EPU_State
+WV-EPU_Composite
+DebtCeiling Relative Freq
+GovernmentShutdown Relative Freq
+BBD MPU Index Based on Access World News
+BBD MPU Index Based on 10 Major Papers
+Overall EMV Tracker
+Policy-Related EMV Tracker
+Infectious Disease EMV Tracker
+Macroeconomic News and Outlook EMV Tracker
+Macro - Broad Quantity Indicators EMV Tracker
+Macro - Inflation EMV Indicator
+Macro - Interest Rates EMV Tracker
+Macro - Other Financial Indicators EMV Tracker
+Macro - Labor Markets EMV Tracker
+Macro - Real Estate Markets EMV Tracker
+Macro - Trade EMV Tracker
+Macro - Business Investment and Sentiment EMV Tracker
+Macro - Consumer Spending and Sentiment EMV Tracker
+Commodity Markets EMV Tracker
+Financial Crises EMV Tracker
+Exchange Rates EMV Tracker
+Healthcare Matters EMV Tracker
+Litigation Matters EMV Tracker
+Competition Matters EMV Tracker
+Labor Disputes EMV Tracker
+Intellectual Property Matters EMV Tracker
+Fiscal Policy EMV Tracker
+Taxes EMV Tracker
+Government Spending, Deficits, and Debt EMV Tracker
+Entitlement and Welfare Programs EMV Tracker
+Monetary Policy EMV Tracker
+Regulation EMV Tracker
+Financial Regulation EMV Tracker
+Competition Policy EMV Tracker
+Intellectual Property Policy EMV Tracker
+Labor Regulations EMV Tracker
+Immigration EMV Tracker
+Energy and Environmental Regulation EMV Tracker
+Lawsuit and Tort Reform, Supreme Court Decisions EMV Tracker
+Housing and Land Management EMV Tracker
+Other Regulation EMV Tracker
+National Security Policy EMV Tracker 
+Government-Sponsored Enterprises EMV Tracker
+Trade Policy EMV Tracker
+Healthcare Policy EMV Tracker
+Food and Drug Policy EMV Tracker
+Transportation, Infrastructure, and Public Utilities EMV Tracker
+Elections and Political Governance EMV Tracker
+Agricultural Policy EMV Tracker
+Petroleum Markets EMV Tracker
+cpu_index
+old_cpu_index
+infect_emv_index
+FSI-indicator
+GPR
+GPRT
+GPRA
+GPRH
+GPRHT
+GPRHA
+SHARE_GPR
+N10
+SHARE_GPRH
+N3H
+GPRH_NOEW
+GPR_NOEW
+GPRH_AND
+GPR_AND
+GPRH_BASIC
+GPR_BASIC
+SHAREH_CAT_1
+SHAREH_CAT_2
+SHAREH_CAT_3
+SHAREH_CAT_4
+SHAREH_CAT_5
+SHAREH_CAT_6
+SHAREH_CAT_7
+SHAREH_CAT_8
+GPRC_ARG
+GPRC_AUS
+GPRC_BEL
+GPRC_BRA
+GPRC_CAN
+GPRC_CHE
+GPRC_CHL
+GPRC_CHN
+GPRC_COL
+GPRC_DEU
+GPRC_DNK
+GPRC_EGY
+GPRC_ESP
+GPRC_FIN
+GPRC_FRA
+GPRC_GBR
+GPRC_HKG
+GPRC_HUN
+GPRC_IDN
+GPRC_IND
+GPRC_ISR
+GPRC_ITA
+GPRC_JPN
+GPRC_KOR
+GPRC_MEX
+GPRC_MYS
+GPRC_NLD
+GPRC_NOR
+GPRC_PER
+GPRC_PHL
+GPRC_POL
+GPRC_PRT
+GPRC_RUS
+GPRC_SAU
+GPRC_SWE
+GPRC_THA
+GPRC_TUN
+GPRC_TUR
+GPRC_TWN
+GPRC_UKR
+GPRC_USA
+GPRC_VEN
+GPRC_VNM
+GPRC_ZAF
+GPRHC_ARG
+GPRHC_AUS
+GPRHC_BEL
+GPRHC_BRA
+GPRHC_CAN
+GPRHC_CHE
+GPRHC_CHL
+GPRHC_CHN
+GPRHC_COL
+GPRHC_DEU
+GPRHC_DNK
+GPRHC_EGY
+GPRHC_ESP
+GPRHC_FIN
+GPRHC_FRA
+GPRHC_GBR
+GPRHC_HKG
+GPRHC_HUN
+GPRHC_IDN
+GPRHC_IND
+GPRHC_ISR
+GPRHC_ITA
+GPRHC_JPN
+GPRHC_KOR
+GPRHC_MEX
+GPRHC_MYS
+GPRHC_NLD
+GPRHC_NOR
+GPRHC_PER
+GPRHC_PHL
+GPRHC_POL
+GPRHC_PRT
+GPRHC_RUS
+GPRHC_SAU
+GPRHC_SWE
+GPRHC_THA
+GPRHC_TUN
+GPRHC_TUR
+GPRHC_TWN
+GPRHC_UKR
+GPRHC_USA
+GPRHC_VEN
+GPRHC_VNM
+GPRHC_ZAF
+Period
